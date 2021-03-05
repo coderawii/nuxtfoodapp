@@ -18,3 +18,5 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+https://github.com/sdras/building-web-apps-with-vue/blob/main/foodapp-solution2/pages/item/_id.vue
